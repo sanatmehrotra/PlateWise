@@ -63,16 +63,22 @@ Food waste is a major issue worldwide. Restaurants often have surplus food that 
 ---
 
 ## Features
-- **Authentication:** Google Auth login and email/password signup with role selection.  
+- **Authentication:** Google Auth login and email/password signup with role selection.
+  <img width="763" height="822" alt="Screenshot 2025-09-13 163227" src="https://github.com/user-attachments/assets/78a5403c-d2a0-47fc-99df-b1b450fd17f0" />
+
 - **Restaurant Dashboard:**  
   - Create surplus food requests with description, quantity, and location.  
   - Track request status: Open → Accepted → Completed.  
   - Close requests manually if needed.  
+<img width="1845" height="924" alt="image" src="https://github.com/user-attachments/assets/9ebde9e8-facb-44de-9ffd-1e3bba03a18d" />
+
 - **NGO Dashboard:**  
   - View open requests filtered by proximity.  
   - Accept requests and mark them completed.  
   - Real-time updates for new requests.  
-- **Role-based Routing:** Redirect users based on role after signup/login.  
+- **Role-based Routing:** Redirect users based on role after signup/login. 
+<img width="1919" height="1016" alt="Screenshot 2025-09-13 163336" src="https://github.com/user-attachments/assets/27ad8efc-1df3-4a67-8371-f0c6e887ebb7" />
+ 
 - **Real-time Firestore Integration:** Instant updates for request creation, acceptance, and completion.  
 
 ---
